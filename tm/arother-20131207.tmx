@@ -1,0 +1,1159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit - po2tmx" creationtoolversion="1.9.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the image where you would like to create one or more regions.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Auf die Stelle des Bildes klicken, an der eine oder mehrere Bereiche erstellt werden sollen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Double-click to finish your region (or shift-click, or press ESC).</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Doppel-Klick, um den Bereich zu beenden (oder Umschalten-Klick oder ESC drücken).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move the sliders in the Rotate Tool to rotate your image.  Drag along features in your image to align them.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Die Schieber im Drehen-Werkzeug bewegen, um das Bild zu drehen.  Entlang einer Kante im Bild eine Linie ziehen, um es auszurichten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Drag a rectangle on the image to crop it.  Click the Crop button again to commit.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ein Rechteck im Bild ziehen, um es zu zu schneiden.  Den Zuschnittskopf noch einmal klicken, um zu bestätigen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pick a folder that has some images in it.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Einen Ordner mit Bildern auswählen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Abbrechen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LightZone Batch Processing</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>LightZone Stapelverarbeitung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>saved as $1</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>gespeichert als $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Style could not be applied</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Stil kann nicht angewendet werden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalid image file</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ungültige Bilddatei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Error reading the file</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Fehler beim Lesen der Datei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not enough memory</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Nicht genug Speicher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unrecognized image format</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Unbekanntes Bildformat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unsupported camera</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Nicht unterstützte Kamera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unsupported color profile</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Nicht unterstütztes Farbprofil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unknown error processing this file</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Unbekannter Fehler bei der Verarbeitung dieser Datei</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Done</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Fertig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1 file to process</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>1 Datei zu verarbeiten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>$1 files to process</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>$1 Dateien zu verarbeiten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>$1 of $2 files processed, $3 seconds remaining</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>$1 von $2 Dateien verarbeitet, $3 Sekunden verbleiben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose...</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wählen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Batch Output Folder</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ordner für Ausgabe der Stapeverarbeitung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Beginnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Abbrechen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Batch Name</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Name der Stapelverarbeitung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save To:</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Speichern nach:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Output to:</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ausgabe nach:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save Format</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Speicherformat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LightZone Batch Processing</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>LightZone Stapelverarbeitung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LightZone Send</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>LightZone Senden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send 1 image from $1</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Sende 1 Bild von $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send $1 images from $2</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Sende $1 Bilder von $2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Senden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Abbrechen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To Folder:</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>An Ordner:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Output Size:</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ausgabegröße:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose...</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Wählen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Send To Folder</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Sende an Ordner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show Help for LightZone Send</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Hilfe zeigen für LightZone Senden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save to $1</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Speichern nach $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show Regions</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Regionen anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hide Regions</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Regionen verbergen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go back to previously selected folder</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Zurück zum vorher gewähltem Ordner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go forward to recently selected folder</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Weiter zum eben gewähltem Ordner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Display the path of the current folder</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Pfad des aktuellern Ordners anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thumbnail Progress</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Vorschaufortschritt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Slide right to increase thumbnail size</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Nach rechts schieben vergrößert die Vorschaubilder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose the browser sort criteria</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Auswahl der Sortierreihenfolge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sort Ascending</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Aufsteigend sortieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sort Descending</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Absteigend sortieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rotate 90 degrees counter-clockwise</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Um 90° gegen den Uhrzeigersinn drehen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rotate 90 degrees clockwise</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Um 90° im Uhrzeigersinn drehen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copy toolstack to clipboard from selected image</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Angewendete Methoden vom Bild in die Zwischenablage kopieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Apply toolstack to the selected image</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Kopierte Methoden auf das Bild anwenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete the selected image</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ausgewähltes Bild löschen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete the selected image</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ausgewähltes Bild löschen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete the selected image</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ausgewähltes Bild löschen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rate the selected image</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ausgewähltes Bild bewerten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select only most recent version from each stack</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Select only most recent version from each stack</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Orient</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Drehrichtung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rate</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bewerten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Lift Tools</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Lift Tools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sort</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Sortieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thumbnail Size</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Größe der Vorschaubilder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Auswählen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Löschen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Stack</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Stapel anzeigen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My Computer</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Mein Computer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dateiname</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File Type</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dateityp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Capture Time</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Datum der Aufnahme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rating</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bewerten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Modification Time</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Datum der letzten Änderung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Aperture</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Blendenzahl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shutter Speed</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Verschlusszeit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File Size</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Dateigröße</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Lens</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Objektivname</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Focal Length</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Brennweite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open LightZone files to rotate them</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Open LightZone files to rotate them</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bearbeiten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copy Tools</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Kopiere Werkzeuge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Paste Tools...</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Werkzeuge anwenden...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Apply Style</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Style anwenden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rotate Left</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Drehe nach links</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rotate Right</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Drehe nach rechts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rotate Left and Select Next</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Drehe nach links und wähle nächstes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rotate Right and Select Next</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Drehe nach rechts und wähle nächstes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rating</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bewerten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Refresh</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Neu laden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rename...</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Umbenennen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move to Recycle Bin...</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>In den Mülleimer verschieben...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move to Trash...</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>In den Mülleimer verschieben...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete...</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Löschen...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show Image Types</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Zeige Bildertypen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hide Image Types</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Verstecke Bildertypen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rate $1</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bewerte $1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rate $1 and Select Next</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Bewerte $1 und wähle nächstes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remove Rating</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Lösche Bewertung</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remove Rating and Select Next</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Lösche Bewertung und wähle nächstes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select a Folder</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Ordner auswählen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move "$1" to the Trash?</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>"$1" in den Mülleimer verschieben?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move $1 selected images to the Trash?</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>$1 ausgewählte Bilder in den Mülleimer verschieben?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move to Trash</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>In den Mülleimer verschieben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Couldn't move $1 to the Trash.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Konnte $1 nicht in den Mülleimer verschieben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move "$1" to the Recycle Bin?</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>"$1" in den Mülleimer verschieben?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move $1 selected images to the Recycle Bin?</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>$1 ausgewählte Bilder in den Mülleimer verschieben?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move to Recycle Bin</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>In den Mülleimer verschieben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Couldn't move $1 to the Recycle Bin.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Konnte $1 nicht in den Mülleimer verschieben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Really delete this file?</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Soll diese Datei wirklich gelöscht werden?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Really delete these files?</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Sollen diese Dateien wirklich gelöscht werden?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Löschen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Couldn't delete $1.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Konnte $1 nicht löschen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Weiter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Abbrechen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rename $1 to:</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>$1 umbenennen nach:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"$1" already exists as a folder.</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>"$1" ist ein Ordner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"$1" already exists.  Do you want to replace it?</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>"$1" ist bereits als Ordner vorhanden.  Soll es ersetzt werden?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Couldn't rename "$1" to "$2".</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Konnte "$1" nicht nach "$2" umbenennen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Couldn't rename the XMP file for "$1".</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Konnte die XMP-Datei von "$1" nicht umbenennen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>LightZone File Error</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>LightZone Dateifehler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select Recent</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Kürzlich bearbeitet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Alles auswählen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unselect All</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Auswahl löschen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a new Style</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Neuen Style hinzufügen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remove this Style</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Diesen Style entfernen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit the list of Styles</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Liste der Styles anpassen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Styles</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Styles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Löschen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Restore Factory Styles</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Restore Factory Styles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Couldn't access Styles</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Kein Zugriff auf Styles möglich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Import...</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Importieren...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Import Style</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Style importieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Export...</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Exportieren...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Export Style</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Style exportieren</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Löschen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Style failed</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Löschen des Styles fehlgeschlagen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No Styles defined</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Keine Styles definiert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Couldn't access Styles</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Kein Zugriff auf Styles möglich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Couldn't access Style "$1"</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Kein Zugriff auf Style "$1" möglich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Couldn't store Style "$1"</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Style "$1" kann nicht gespeichert werden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Style "$1" was written to "$2"</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Style "$1" wurde in Datei "$2" geschrieben</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Manage Styles</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Styles verwalten</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Done</seg>
+      </tuv>
+      <tuv xml:lang="de">
+        <seg>Fertig</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
